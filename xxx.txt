@@ -1,0 +1,135 @@
+console.amazon
+
+8792444614
+
+9497463648
+
+in the side panel there is a option Assignment if you click that there a link to submit assignment
+
+
+- What is VPC?
+
+- what is tech command
+- how to CPU usage
+top
+ps -es
+free -h
+history
+which java -- du -sh file1
+du -s /home/dir1
+java --version
+yum update -y
+apt-get update -y
+OS checking-- cat /etc/os-relese
+ls -lrt > log1
+hostname -i
+comm file1 file2
+less file1
+cp file1 dir1 &
+man cat
+
+sudo su
+whoami
+ls
+mkdir star
+ls -a
+ls -ltr
+ls latr
+cd star
+pwd
+cd ..
+ls -s
+ls -l
+touch
+cat sample
+rm -rf
+man ls
+mv star pavan
+cp sss pavan
+ls -lt star
+cat star
+vi 
+i
+
+system commands:
+uname -a
+top
+free -m
+free -g
+df -h
+find
+passwd
+chown
+
+!/bin/bash
+ech "hello world"
+ls
+vi sample.sh
+sh sample.sh
+
+echo "emp Name:"
+read name
+echo "hi, $name"
+
+sh sample.sh
+Emp name: Pavan
+hi, Pavan
+
+cat sample.sh
+
+./sample.sh
+
+chmod +x sample.sh
+
+echo "count down"
+for ((i=10; i>=1: i--)); do
+echo $i
+done
+
+#!/bin/bash
+greet()
+{ echo "Hello, $1!"
+}
+greet "john"
+
+#!/bin/bash
+echo "Enter a message:"
+read message
+echo $message>output.txt
+echo "message written to file"
+
+sudo apt-get upate
+sudo apt-get install openjdk-11-jdk
+java -version
+sudo apt-get install maven
+mvn --version
+
+C:\Program Files\Apache Software Foundation\Tomcat 10.1
+C:\Users\Administrator\eclipse-workspace
+
+sudo apt-get update
+sudo apt-get install maven
+sudo apt-get install 
+openjdk-11-jdk
+
+install and configure Apache Tomcat 10.1 Eclipse IDE
+
+pom.xml file: it gives instraction
+
+Maven life cycle phases::
+mvn install
+1.complie main code
+2.complie test code
+3.test(genarate report)
+4.package(create jar/war)
+5.install (copies jar.war to .m2)
+
+
+1. clone the code from git repository
+2. mvn install
+
+
+
+
+
+
